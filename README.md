@@ -13,7 +13,7 @@ It covers the complete process of:
 
 The project highlights key e-commerce metrics such as **total revenue, top-selling products, customer orders, popular categories, and monthly sales trends**.
 
-Through this project, you will gain hands-on experience in:
+Through this project, I gained hands-on experience in:
 
 * SQL joins
 * Grouping & aggregation
